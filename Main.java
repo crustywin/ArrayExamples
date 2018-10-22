@@ -173,7 +173,7 @@ class Main
             System.out.println(ar1[i]);
         
          /*
-          * Task 8
+          * Task 8 
           *    Create an array called ar2odds
           *    If the index of ar2 is odd, copy it to ar2odds.
           *    If not, do not
@@ -182,6 +182,8 @@ class Main
           *    ar2[2]=2
           *    ar2[3]=3  ->  ar2odds[1]=3
           */
+         System.out.println(
+          
          
         /*
          * Task 9. In the array ar2, count how many odd numbers you
